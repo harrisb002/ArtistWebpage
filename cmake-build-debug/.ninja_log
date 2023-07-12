@@ -1,0 +1,18 @@
+# ninja log v5
+4189	5120	1683844432039704931	CMakeFiles/Project5.dir/Track.cpp.o	a2fa2ebde74fd45e
+5	1742	1683844894466446484	CMakeFiles/Project5.dir/main.cpp.o	5ed987110c8c5652
+1742	2065	1683844894795283676	Project5	8ff1972637653c7e
+4	1936	1683844428850596824	CMakeFiles/Project5.dir/Token.cpp.o	4c85c38470300dcd
+1942	2912	1683844429831222452	CMakeFiles/Project5.dir/KeyValuePair.cpp.o	f903356a8424a8ae
+1986	2933	1683844429850422922	CMakeFiles/Project5.dir/JSONDataObject.cpp.o	13b4aac14591fac5
+2913	4271	1683844431187057257	CMakeFiles/Project5.dir/Artists.cpp.o	e38a14edf55ca55b
+5	1978	1683844428898203918	CMakeFiles/Project5.dir/Tokenizer.cpp.o	e81f7748e48ed994
+2933	4177	1683844431094767225	CMakeFiles/Project5.dir/Artist.cpp.o	f7ebce8a7b8122b7
+1978	2965	1683844429884869952	CMakeFiles/Project5.dir/JSONArray.cpp.o	25a9ad6f5217699e
+2966	4189	1683844431107508040	CMakeFiles/Project5.dir/Album.cpp.o	3820e114d5881255
+5213	6141	1683844433057889433	CMakeFiles/Project5.dir/ArtistImages.cpp.o	ac8c65b634a1482f
+4177	5213	1683844432131581761	CMakeFiles/Project5.dir/Albums.cpp.o	efdea18c44f9f081
+4271	5263	1683844432183999458	CMakeFiles/Project5.dir/Tracks.cpp.o	95fcc67876bb6f1f
+5120	5999	1683844432918307979	CMakeFiles/Project5.dir/ArtistImage.cpp.o	54f3de37de10df3d
+5263	6191	1683844433111004929	CMakeFiles/Project5.dir/AlbumImages.cpp.o	a1728e1c94b8fdb1
+5999	6650	1683844433562483203	CMakeFiles/Project5.dir/AlbumImage.cpp.o	65171d72528ef102
