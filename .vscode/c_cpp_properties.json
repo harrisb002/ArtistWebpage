@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/Album",
+                "${workspaceFolder}/src/Album/Images",
+                "${workspaceFolder}/src/Artist",
+                "${workspaceFolder}/src/Artist/Images",
+                "${workspaceFolder}/src/JSON",
+                "${workspaceFolder}/src/Tokenizer",
+                "${workspaceFolder}/src/Tokenizer/Data",
+                "${workspaceFolder}/src/Tracks"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
